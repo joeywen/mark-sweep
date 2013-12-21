@@ -1,7 +1,7 @@
 package com.joey.mark_sweep;
 
 /**
- * reference by http://www.cnblogs.com/code-style/p/3483999.html
+ * reference by http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/
  * @author joey.wen@outlook.com
  **/
 
