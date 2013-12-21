@@ -1,4 +1,10 @@
 package com.joey.mark_sweep;
+
+/**
+ * 
+ * @author joey.wen@outlook.com
+ * /
+
 public class MarkSweep {
 
   private final static int STACK_MAX = 256;
