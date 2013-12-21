@@ -1,7 +1,7 @@
 package com.joey.mark_sweep;
 
 /**
- * 
+ * reference by http://www.cnblogs.com/code-style/p/3483999.html
  * @author joey.wen@outlook.com
  **/
 
